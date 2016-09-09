@@ -1,0 +1,26 @@
+{
+  "name": "base.css",
+  "version": "0.1.0",
+  "description": "some base style",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^1.0.2",
+    "gulp-less": "^1.3.9",
+    "gulp-rename": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/OOnnnOO/base.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OOnnnOO/base.css/issues"
+  },
+  "homepage": "https://github.com/OOnnnOO/base.css#readme",
+  "author": "OOnnnOO",
+  "license": "ISC"
+}
